@@ -1,0 +1,77 @@
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+td[data-piece="bp"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/bp.png");
+}
+
+td[data-piece="br"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/br.png");
+}
+
+td[data-piece="bn"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/bn.png");
+}
+
+td[data-piece="bb"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/bb.png");
+}
+
+td[data-piece="bk"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/bk.png");
+}
+
+td[data-piece="bq"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/bq.png");
+}
+
+td[data-piece="wp"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wp.png");
+}
+
+td[data-piece="wr"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wr.png");
+}
+
+td[data-piece="wn"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wn.png");
+}
+
+td[data-piece="wb"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wb.png");
+}
+
+td[data-piece="wk"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wk.png");
+}
+
+td[data-piece="wq"] {
+    background-size: cover;
+    background-image: url("https://images.chesscomfiles.com/chess-themes/pieces/game_room/150/wq.png");
+}
+
+.dark {
+    background-color: #769656;
+}
+
+.light {
+    background-color: #eeeed2;
+}
+
+.option {
+    background-color: #00ffff;
+}
